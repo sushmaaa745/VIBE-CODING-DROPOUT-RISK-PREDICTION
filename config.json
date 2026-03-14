@@ -1,0 +1,1 @@
+{"data_path": "data/student_dropout_dataset.csv", "model_path": "model.pkl", "label_encoder_path": "label_encoder.pkl"}
