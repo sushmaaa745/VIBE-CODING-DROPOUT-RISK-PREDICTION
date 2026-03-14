@@ -47,6 +47,14 @@ Then open the URL shown in the terminal to interact with the app.
 3. Click **New app**, choose your repo, branch, and set the entry point to `streamlit_app.py`.
 4. Click **Deploy** and the app will be hosted live (and auto-redeploy on updates).
 
+### Live Demo Badge
+
+Once deployed, add this badge to your README (replace `USERNAME` and `REPO`):
+
+```md
+[![Streamlit app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/USERNAME/REPO/main/streamlit_app.py)
+```
+
 ## Data
 
 The dataset is stored under `data/student_dropout_dataset.csv`.
